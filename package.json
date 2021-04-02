@@ -40,5 +40,5 @@
 		"web audio",
 		"sound effects"
 	],
-	"main": "./distr/Pizzicato.min.js"
+	"main": "./src/Pizzicato.js"
 }
